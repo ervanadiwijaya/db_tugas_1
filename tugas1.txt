@@ -1,0 +1,34 @@
+Tugas 1
+
+1. Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan sehingga mudah dalam pengelolaannya.
+
+2. RDBMS adalah kependekan dari Relational Database Management System. RDBMS adalah program yang melayani sistem basis data yang entitas utamanya terdiri dari tabel-tabel yang mempunyai relasi dari satu tabel ke tabel yang lain.
+
+3. 5 cara yang dipakai dalam penyimpanan database:
+
+Flat Model : Menyimpan data tanpa aturan dan cara penulisan tertentu.  
+Hierarchical Model : Data terorganisasi dari atas ke bawah.  
+Network Model : Pengembangan dari hierarchical model.  
+Relational Model  : Menyusun data ke dalam bentuk tabel yang saling terhubung.
+Object Oriented Model : Menggunakan pendekatan object dalam menyimpan data.  
+
+4. aplikasi rdbms selain mysql:
+
+Oracle, 
+Sybase, 
+Microsoft Access, 
+Microsoft SQL Server, 
+PostgreSQL,
+MariaDB
+
+5. keunggulan mysql:
+
+Speed,
+Reliability,
+Scalability,
+User Friendly,
+Portability and Standard Compliance,  
+Multiuser Support,  
+Internationalization,  
+Wide Application Support,  
+Open Source Code
